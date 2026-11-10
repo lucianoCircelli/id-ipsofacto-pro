@@ -42,15 +42,15 @@ Potential trust signals may include:
 - Cloud infrastructure ownership
 - Source code repositories
 - Cryptographic verification
-- Technology
+## Technology
 - Cloudflare Workers
 - TypeScript
 - GitHub
 - Wrangler
 - JSON APIs
-- Status
+## Status
 
-## Experimental.
+Experimental.
 
 This repository is intended for research, verification, and digital identity interoperability purposes.
 
