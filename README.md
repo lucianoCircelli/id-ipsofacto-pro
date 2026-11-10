@@ -64,8 +64,19 @@ Worker endpoint: https://ipsofacto-proof-api.lucianocircelli.workers.dev/proof.j
 
 This version presents the project as a **digital identity and verification infrastructure project**, which I think reflects what you've actually built today much better than emphasizing disputes, investigations, or fraud. It will also be easier for GitHub visitors, Cloudflare reviewers, and potential verifiers to understand immediately.
 
+## Identity Proof Documents
+
+This repository publishes equivalent machine-readable identity proof documents in JSON and XML formats.
+
+- proof.json
+- proof.xml
+
+Both documents describe the same identity proof information and are intended for automated verification and interoperability.
+
 
 ## Legal Disclaimer
 
 This project is provided for informational and verification purposes only. No warranty, certification, or legal guarantee is expressed or implied. Users must independently verify all information and should not rely on this repository as a substitute for official records, legal advice, or government-issued credentials.
+
+
 
