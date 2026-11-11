@@ -48,6 +48,11 @@ Potential trust signals may include:
 - GitHub
 - Wrangler
 - JSON APIs
+  
+> The purpose of this project is not to demand trust, but to provide publicly verifiable information that helps resolve doubts through independent verification.
+>
+> A central objective is to maintain a clear separation between private life and public identity by publishing only those facts, documents, and verification mechanisms that are intentionally made public.
+
 ## Status
 
 Experimental.
