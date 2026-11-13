@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<identityProof>
+  <name>Luciano Circelli Contact Proof</name>
+  <domain>id.ipsofacto.pro</domain>
+  <publicationDate>2026-11-13</publicationDate>
+
+  <claims>
+    <iban disclosure="redacted">
+      <value>CH***************4302</value>
+      <country>CH</country>
+    </iban>
+
+    <phone disclosure="redacted">
+      <value>+41*******9460</value>
+      <country>CH</country>
+    </phone>
+  </claims>
+</identityProof>

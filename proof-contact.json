@@ -1,0 +1,17 @@
+{
+  "name": "Luciano Circelli Contact Proof",
+  "domain": "id.ipsofacto.pro",
+  "publicationDate": "2026-11-13",
+  "claims": {
+    "iban": {
+      "value": "CH***************4302",
+      "country": "CH",
+      "disclosure": "redacted"
+    },
+    "phone": {
+      "value": "+41*******9460",
+      "country": "CH",
+      "disclosure": "redacted"
+    }
+  }
+}
