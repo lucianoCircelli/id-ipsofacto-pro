@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<identityProof>
+  <name>Luciano Circelli Identity Proof</name>
+  <domain>id.ipsofacto.pro</domain>
+  <publicationDate>2026-11-06</publicationDate>
+
+  <alternateFormats>
+    <xml>/proof-resources.xml</xml>
+  </alternateFormats>
+
+  <resources>
+    <github>
+      <repository>https://github.com/lucianoCircelli/id-ipsofacto-pro</repository>
+      <repository>https://github.com/lucianoCircelli/id-ipsofacto-pro-net</repository>
+    </github>
+
+    <nuget>
+      <package>https://www.nuget.org/packages/IpsoFacto.Identity</package>
+      <package>https://www.nuget.org/packages/API.LucianoCirceo.Core</package>
+    </nuget>
+  </resources>
+</identityProof>
